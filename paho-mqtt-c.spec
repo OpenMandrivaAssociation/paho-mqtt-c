@@ -6,8 +6,8 @@
 
 Summary:	Eclipse Paho C client library for MQTT
 Name:		paho-mqtt-c
-Version:	1.3.13
-Release:	2
+Version:	1.3.14
+Release:	1
 License:	BSD and EPL
 URL:		https://eclipse.org/paho/clients/c/
 Source0:	https://github.com/eclipse/paho.mqtt.c/archive/v%{version}/paho.mqtt.c-%{version}.tar.gz
